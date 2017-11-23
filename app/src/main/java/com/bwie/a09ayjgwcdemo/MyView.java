@@ -8,9 +8,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-/**
- * Created by ASUS on 2017/11/21.
- */
+
 
 public class MyView extends LinearLayout{
 
