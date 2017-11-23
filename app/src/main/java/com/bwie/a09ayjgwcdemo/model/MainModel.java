@@ -15,9 +15,6 @@ import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.Response;
 
-/**
- * Created by ASUS on 2017/11/21.
- */
 
 public class MainModel implements IMainModel{
 
