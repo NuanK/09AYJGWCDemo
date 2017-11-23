@@ -9,9 +9,6 @@ import com.bwie.a09ayjgwcdemo.view.IMainActivity;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by ASUS on 2017/11/21.
- */
 
 public class MainPresenter {
     private IMainModel iMainModel;
