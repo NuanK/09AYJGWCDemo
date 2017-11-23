@@ -19,9 +19,6 @@ import org.greenrobot.eventbus.EventBus;
 
 import java.util.List;
 
-/**
- * Created by ASUS on 2017/11/21.
- */
 
 public class RvAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     private Context context;
