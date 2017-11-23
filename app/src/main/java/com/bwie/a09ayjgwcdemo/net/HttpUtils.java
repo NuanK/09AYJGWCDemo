@@ -6,9 +6,6 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.logging.HttpLoggingInterceptor;
 
-/**
- * Created by ASUS on 2017/11/21.
- */
 
 public class HttpUtils {
     private static HttpUtils httpUtils;
